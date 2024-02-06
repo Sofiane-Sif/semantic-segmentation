@@ -1,3 +1,3 @@
 ## Semantic Segmentation on VOC dataset
 
-![Alt text](images/resnet.png)
+![Alt text](images/semantic.png)
